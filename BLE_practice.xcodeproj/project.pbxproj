@@ -13,6 +13,10 @@
 		51B1964B29B5937F0096F94D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B1964929B5937F0096F94D /* Main.storyboard */; };
 		51B1964D29B593800096F94D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51B1964C29B593800096F94D /* Assets.xcassets */; };
 		51B1965029B593800096F94D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B1964E29B593800096F94D /* LaunchScreen.storyboard */; };
+		51CA60C129CADAA4001B4239 /* anne.png in Resources */ = {isa = PBXBuildFile; fileRef = 51CA60C029CADAA4001B4239 /* anne.png */; };
+		51CA60C529CADAD9001B4239 /* angle_orange.png in Resources */ = {isa = PBXBuildFile; fileRef = 51CA60C229CADAD9001B4239 /* angle_orange.png */; };
+		51CA60C629CADAD9001B4239 /* angle_green.png in Resources */ = {isa = PBXBuildFile; fileRef = 51CA60C329CADAD9001B4239 /* angle_green.png */; };
+		51CA60C729CADAD9001B4239 /* angle_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 51CA60C429CADAD9001B4239 /* angle_red.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		51B1964C29B593800096F94D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51B1964F29B593800096F94D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		51B1965129B593800096F94D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51CA60C029CADAA4001B4239 /* anne.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = anne.png; sourceTree = "<group>"; };
+		51CA60C229CADAD9001B4239 /* angle_orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angle_orange.png; sourceTree = "<group>"; };
+		51CA60C329CADAD9001B4239 /* angle_green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angle_green.png; sourceTree = "<group>"; };
+		51CA60C429CADAD9001B4239 /* angle_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angle_red.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,10 @@
 				51B1964C29B593800096F94D /* Assets.xcassets */,
 				51B1964E29B593800096F94D /* LaunchScreen.storyboard */,
 				51B1965129B593800096F94D /* Info.plist */,
+				51CA60C029CADAA4001B4239 /* anne.png */,
+				51CA60C329CADAD9001B4239 /* angle_green.png */,
+				51CA60C229CADAD9001B4239 /* angle_orange.png */,
+				51CA60C429CADAD9001B4239 /* angle_red.png */,
 			);
 			path = BLE_practice;
 			sourceTree = "<group>";
@@ -128,6 +140,10 @@
 				51B1965029B593800096F94D /* LaunchScreen.storyboard in Resources */,
 				51B1964D29B593800096F94D /* Assets.xcassets in Resources */,
 				51B1964B29B5937F0096F94D /* Main.storyboard in Resources */,
+				51CA60C729CADAD9001B4239 /* angle_red.png in Resources */,
+				51CA60C629CADAD9001B4239 /* angle_green.png in Resources */,
+				51CA60C529CADAD9001B4239 /* angle_orange.png in Resources */,
+				51CA60C129CADAA4001B4239 /* anne.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
